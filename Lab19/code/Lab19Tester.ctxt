@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ testIsLevelTrail_ASKSegment()
+comment1.params=
+comment1.target=void\ testIsNotLevelTrail_ASKSegment()
+comment2.params=
+comment2.target=void\ testisDifficult()
+comment3.params=
+comment3.target=void\ testisEndDifficult()
+comment4.params=
+comment4.target=void\ testisBeginningDifficult()
+comment5.params=
+comment5.target=void\ testisNotDifficult()
+numComments=6
